@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/filmargaret">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Welcome%20%3C3" alt="Welcome &lt;3" />
+    <img src="assets/welcome.svg" alt="Welcome &lt;3" width="600" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ beginning of my git journey
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/margaret-feiel-92a99b335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/margaret-feiel-92a99b335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/fil.margaret_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:feiel.margaret@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
