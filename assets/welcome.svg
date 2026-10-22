@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-family="'Brush Script MT', 'Segoe Script', 'Snell Roundhand', 'Apple Chancery', cursive"
-        font-size="88" font-weight="bold" font-style="italic"
-        fill="#C3A6E8" stroke="#C3A6E8" stroke-width="2">
+        font-family="'Edwardian Script ITC', 'Palace Script MT', 'Snell Roundhand', 'Apple Chancery', 'Segoe Script', 'Brush Script MT', cursive"
+        font-size="130" font-weight="normal" font-style="italic"
+        letter-spacing="2" fill="#C3A6E8">
     Welcome &lt;3
   </text>
 </svg>
